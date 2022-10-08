@@ -57,7 +57,11 @@
    - 截取输入文件路径部分作为新文件名称
    - 中文文案直接输出，其余文案使用百度翻译再输出，[参考文档](https://juejin.cn/post/6906787897811501063)
    - 生成文件统一在`xx/messages/`目录下
-  
+ 
+## 代码地址
+
+[github](https://github.com/wang1xiang/gene-i18n)
+
 ## TODO
 
 1. placeholder格式的暂不支持直接读取，需要直接写好格式
